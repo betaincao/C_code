@@ -1,7 +1,6 @@
 #include <stdio.h>
 #define SIZE 8
  
-void bubble_sort(int a[], int n);
  
 void bubble_sort(int a[], int n)
 {
