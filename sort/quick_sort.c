@@ -12,7 +12,7 @@ int main(){
 }
 
 
-int quick_sort(int *a,int left,int right){
+int quick_sort(int s[],int left,int right){
 
 
 
